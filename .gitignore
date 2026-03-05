@@ -1,0 +1,5 @@
+aws-dr-audit
+*.exe
+*.test
+*.out
+.DS_Store
