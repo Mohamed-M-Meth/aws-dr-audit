@@ -11,7 +11,7 @@
 
 Cloud regions fail. emerging-market AWS regions carry concentrated infrastructure risk. Organizations that haven't implemented cross-region DR are one outage away from catastrophic data loss.
 
-`aws-dr-audit` is 100% free and open-source. It tells you exactly where your DR posture is broken, before AWS breaks it for you.
+`aws-dr-audit` is 100% free and open-source. It tells you exactly where your DR posture is broken
 
 ## Checks
 
