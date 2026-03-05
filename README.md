@@ -84,6 +84,9 @@ Built by Mohamed M. Meth | Powered by AI 🤖
 
 - GitHub: [@Mohamed-M-Meth](https://github.com/Mohamed-M-Meth)
 
+This tool is a personal learning project built while exploring AWS automation. As I am currently focused on my RHCSA and Ansible certifications, I welcome feedback and contributions from the community to improve its logic
+
+
 ## License
 
 MIT License — Free to use, modify, and distribute.
